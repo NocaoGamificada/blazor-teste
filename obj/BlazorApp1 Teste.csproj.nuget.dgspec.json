@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\BlazorApp1 Teste\\BlazorApp1 Teste.csproj": {}
+    "D:\\GitHub\\blazor-teste\\BlazorApp1 Teste.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\BlazorApp1 Teste\\BlazorApp1 Teste.csproj": {
+    "D:\\GitHub\\blazor-teste\\BlazorApp1 Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\BlazorApp1 Teste\\BlazorApp1 Teste.csproj",
+        "projectUniqueName": "D:\\GitHub\\blazor-teste\\BlazorApp1 Teste.csproj",
         "projectName": "BlazorApp1 Teste",
-        "projectPath": "D:\\Projetos\\BlazorApp1 Teste\\BlazorApp1 Teste.csproj",
+        "projectPath": "D:\\GitHub\\blazor-teste\\BlazorApp1 Teste.csproj",
         "packagesPath": "C:\\Users\\gamef\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\BlazorApp1 Teste\\obj\\",
+        "outputPath": "D:\\GitHub\\blazor-teste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\gamef\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
@@ -55,6 +55,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "PublishSPAforGitHubPages.Build": {
+              "target": "Package",
+              "version": "[2.0.2, )"
             }
           },
           "imports": [

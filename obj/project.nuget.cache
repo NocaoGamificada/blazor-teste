@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FT/DJ+LBi8ZTyRk8fPj9h1gsIxXoLMrmDpb6ht/l6cdcvwzK52CTNarRVRIPGOZjtoHVwIZ+ta252sqomXHOgQ==",
+  "dgSpecHash": "i29gyowgH1oMKEL7YSFmp96Me79aZU6ZwzbY1Oe6XrZg+SK7ZnHSCjmZySzhtREjJ3pPt8/l7RVEXggBrVvEig==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\BlazorApp1 Teste\\BlazorApp1 Teste.csproj",
+  "projectFilePath": "D:\\GitHub\\blazor-teste\\BlazorApp1 Teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gamef\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",
     "C:\\Users\\gamef\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.5\\microsoft.aspnetcore.components.7.0.5.nupkg.sha512",
@@ -28,6 +28,7 @@
     "C:\\Users\\gamef\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\gamef\\.nuget\\packages\\microsoft.jsinterop\\7.0.5\\microsoft.jsinterop.7.0.5.nupkg.sha512",
     "C:\\Users\\gamef\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.5\\microsoft.jsinterop.webassembly.7.0.5.nupkg.sha512",
+    "C:\\Users\\gamef\\.nuget\\packages\\publishspaforgithubpages.build\\2.0.2\\publishspaforgithubpages.build.2.0.2.nupkg.sha512",
     "C:\\Users\\gamef\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\gamef\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\gamef\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
