@@ -1,0 +1,31 @@
+{
+  "file_hashes": {
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.Extensions.Primitives.dll.bc": "4R2r/ASP87VRCCo2kjE9vyzk3R/WwBNINtMwYS9\u002BHYQ5Y2piowtAYR7tjvtsHnQ11wjL2nj53DzcTRTRiJqM1A==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.Private.Uri.dll.bc": "tX99VH0A2E5OZqQA9JftVzhbFETm8ENPdk5u2K3wwVNjjPOhHTvN7SobtLAWDu0I0tBWUEYyRnL5Go1a2\u002BXUwQ==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.Memory.dll.bc": "bPTi\u002BOklKXdqiMKZV42QfMy4HWlQ7n/hktAlUwYu7QI79eXeCTniiTJ3xzwz/Q65CmsZTU35GJOAoMv/Ap3l8A==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.Runtime.dll.bc": "f5Qm/7ofv46xSUhJEXZgrXsvQa28PNw5uQenQFgSJqhKL91wkhx8NZ9VtfO0WFFpmuEfbTZjWLyWZO6Jo1ZfIA==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.Extensions.Configuration.Abstractions.dll.bc": "lenYrqtaK2ksinZ\u002B9MH6AEQBS7NOh0aUQPMxs/G5vSLL7rs/hXme40Ad2JRm2jkAm\u002BzBSmvxy7VuNbd5Xr0GuQ==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.Extensions.Logging.dll.bc": "RyQChPaTlQTN0x2Ll4BXMXNzAbwlmpv/NxJaJcjicSsqkua2mu4l\u002BKpeo8VjTBj7GE\u002BTpXqvmjPJIjKBmsPv0Q==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.AspNetCore.Components.dll.bc": "jaXMx9\u002Bi\u002BVNCh19e\u002B1dLMEG9EyHqtZxXFKEjkM0/uRBdMEPAmBBGO6pmoFBegb1qxwpYbDz9BiqGBNFErrJdEQ==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.Private.CoreLib.dll.bc": "0uBIYMsJrVrBTPEFY7Tc8cwSPjzbadRzA/40h9VGzQ7n6OUCf7Xiq86zbTfoWAfudHa43k6s0xtrdXWWoq3SQA==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.Net.Primitives.dll.bc": "BHX761XOAbylt\u002BlHXdFBcdPKi9cc/XZjJ\u002BDYgPfXwbMLY1BP7DkF5JnRVvLsVK75qxzcolZ\u002Bj3wCTCtYwl\u002BXnA==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.ComponentModel.dll.bc": "FiEZ\u002BpAO4R0RGsUW33XHBBRQ5kdw57c7dhtRpNErMawfsEw88IJ9GwhP/JMODElPMZmEyrTCtREfEpRgrt\u002Bhqw==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.Net.Http.dll.bc": "6HK99\u002BIrkfjMHFIp2MPqTp4AHXBSD5IXHmgI/HNmQshQurNHsKk94afU1xyWphO/tv/ggpPA56NS1SqodR0ViA==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.Collections.dll.bc": "cpGfGUjgJphop19lfX2bZgh\u002BkZoBLmDKfxjYFyDrkOBzX2Gdr1fzqX7ilCDEPaNZltFWnDW2DVnRPJiPSa9QqA==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.JSInterop.dll.bc": "mLQQcwlxwMjR2pkNLE/w0xliC8K2OsiIt1InH5lnYQwcNQbbliD6Rzo3JrbCOKpG9SpBV5hZuHCgzj1Br2Y/ZQ==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.Text.Encodings.Web.dll.bc": "wtLlrlrDnTUrKNTBXH8CUKDD1t6BuQ9qQNgxTz4YM5vSJZ5Pl0fOi/1guEEMV53KvJRgmpr6mwJFfVoxWQCmfg==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.AspNetCore.Components.Web.dll.bc": "5oLmt5sYNoYHVxiM4hdipz721pAd26MIvwyq8x1aUHgomgHLwmUInPwuzYAdfjBjQIK/2gTGMW0HyPI\u002BpnaQXA==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.Text.Json.dll.bc": "KCOpCuxkCFdOb/6u/m/UCf4mip9XxLoEEH\u002BZo2vemmazOl6igmuzYSRHrgfAIq1w\u002BxK4pdC4qjPUMtg7ry6PDw==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.Collections.Concurrent.dll.bc": "MTPy2v3Irn1VVhNxwlBujbQa6\u002BH8/KfhFdxkuijgpaTG1q7V9WRRmK1/DDUjoT734iiEaGkKL\u002BUXhbeKqtBkhg==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.Net.Http.Json.dll.bc": "fls1nthrFihuOhFtzP226mvsOHJT9RAiysyQvLj8Y4ycytUCByugJegN7xFGIckRHwMX8E9mIlMcvKGqNmL2aw==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.Extensions.Configuration.dll.bc": "BH2WBWoxJj5wpOetQGuzloGm9r6WHhxI5IGyW5VB5Z32L5RXDp9aKHAvVwFf5v5uLhg/kXT3U34XM\u002BU7QgOtYg==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.Extensions.Configuration.Json.dll.bc": "rbt\u002Bu33uqYWXw0yl1ZFTlYnDRysFVyHmNmRVZCc1c4NbB3LH6vhGZBuPNZK0uwdRGG7WL525UoBTK8e85wk5eQ==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\System.Runtime.InteropServices.JavaScript.dll.bc": "xuKmVtCFpyTZMAbuU3f9pgzM9ZMVBhT/W5mZghOGZ1VdXZFVCOepGnz\u002BZ5vsBKihHGAqIv9aSG3rrksokHAepQ==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.Extensions.Options.dll.bc": "2Hyh2YLtYMOQzUbH7wCUxiji1u/wCVnexrug5cZt1N0qFB1aI52LxwXPRxTokyoxBgBFtkz/EBZC2GMZNxNamQ==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.Extensions.Logging.Abstractions.dll.bc": "eF8B\u002B4RF1gR8WjdGnI0t/\u002BzzyvMS/znXrb\u002BlFHcCwBLSK8pxHbd5eABS1MOHCUGYZCwP/yWSxyiVtWRVSY8NKA==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\BlazorApp1 Teste.dll.bc": "jI2myk64/5uUwmaHQZ2t5XAT8eu0XhUI4vItc4F6aqRi/z4EeBJULpN0/l5e7d13AyxeHilen3twB0\u002BKBGwDWg==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.AspNetCore.Components.WebAssembly.dll.bc": "nCfykne302mkLMaQtAsUqWcl3au\u002BkbSHQzZ7KQG9N8iDUqP5Zj6BLXtq9z5uGXssUFKhim7JJ7A58a\u002BG20t4aQ==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.Extensions.DependencyInjection.Abstractions.dll.bc": "WEesEFrm9\u002BiREaOL0uXT8LEnoz/bcjiXhJj/t3XALJBrwGovkA/0OviTP8njR4NFqKCnLej9C5Zzzy/ZlUnYMg==",
+    "D:\\Projetos\\BlazorApp1 Teste\\obj\\Release\\net7.0\\wasm\\for-publish\\Microsoft.Extensions.DependencyInjection.dll.bc": "xQWeZ\u002BIK6jOZ55XvxX0Estp\u002BVt3GgU53E1EX9WVzv5PW0WgVDZhdFcj4yqpVrgpjb4JBrgzKZV5SjzL9aMGP8w=="
+  }
+}
